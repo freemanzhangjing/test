@@ -11,11 +11,11 @@ package com.personal.git.test;
  * This class is used for :   
  *         
  * @author zhangjing  
- * @version 1.0
+ * @version 1.0===
  * @date 2013-10-15 下午03:17:08   
  */
 public class GitTest {
 	public void myFirstMethod(){
-		
+		System.out.println("add ....");
 	}
 }
